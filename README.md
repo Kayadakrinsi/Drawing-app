@@ -1,6 +1,6 @@
 # Drawing-app
 
-This an simple drawing application anyone can use easily.
+This is a simple drawing application anyone can use easily.
 
 Preview is as follow:
 
